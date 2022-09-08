@@ -1,0 +1,10 @@
+{
+	"(Console)": {},
+	"(LEP)": {},
+	"trash": {
+		"groups": [
+			"(Console)",
+			"(LEP)"
+		]
+	}
+}
