@@ -24,3 +24,5 @@ $status:=$pdfcpu.list_properties($PDF)
 <img width="320" alt="スクリーンショット 2022-09-08 8 57 30" src="https://user-images.githubusercontent.com/1725068/189004198-18926a77-0e1b-4b3c-ae68-67a1b82f2384.png">
 
 あ=`0x3042`であり，`0x30`=RS (Record separator) `0x42`=Bなので，UTF-16がそのまま出力されているように見受けられます。
+
+<img width="783" alt="" src="https://user-images.githubusercontent.com/1725068/189006093-bce77dfe-123b-413e-96f3-5ad8f178bf5e.png">
