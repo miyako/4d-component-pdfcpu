@@ -1,3 +1,8 @@
+![version](https://img.shields.io/badge/version-19%2B-5682DF)
+[![license](https://img.shields.io/github/license/miyako/4d-plugin-jwt)](LICENSE)
+![downloads](https://img.shields.io/github/downloads/miyako/4d-component-pdfcpu/total)
+![deprecated](https://img.shields.io/badge/-deprecated-inactive)
+
 # 4d-component-pdfcpu
 4D wrapper for pdfcpu
 
